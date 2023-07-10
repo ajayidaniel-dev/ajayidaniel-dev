@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ajayi Daniel</h1>
+<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Ajayi Daniel</h1>
 <h3 align="left">Frontend Engineer</h3>
 <h4 align="left">As a frontend engineer with over four years of professional experience, I am deeply passionate about crafting exceptional user experiences on the web. Throughout my career, I have dedicated myself to honing my skills and expanding my expertise in various technologies, including React, Next.js, and TypeScript.
 
