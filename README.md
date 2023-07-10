@@ -19,7 +19,7 @@ Collaboration is essential to me, and I value the opportunity to work alongside 
 
 * 💬 Ask me about **Android, MERN**
 
-* 📫 How to reach me **ajayidaniel.dev@gmail.com**
+* 📫 How to reach me at **ajayidaniel.dev@gmail.com**
 
 * 📄 Know about my experiences [https://docs.google.com/document/d/1RGQOFdkhrkWRjhFC6m_T_tONWxXLCmxVXBAN-R2g5YE/edit?usp=sharing](https://docs.google.com/document/d/1RGQOFdkhrkWRjhFC6m_T_tONWxXLCmxVXBAN-R2g5YE/edit?usp=sharing)
 
