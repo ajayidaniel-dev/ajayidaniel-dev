@@ -21,7 +21,7 @@ Collaboration is essential to me, and I value the opportunity to work alongside 
 
 * 📫 How to reach me at **ajayidaniel.dev@gmail.com**
 
-* 📄 Know about my experiences [https://docs.google.com/document/d/1RGQOFdkhrkWRjhFC6m_T_tONWxXLCmxVXBAN-R2g5YE/edit?usp=sharing](https://docs.google.com/document/d/1RGQOFdkhrkWRjhFC6m_T_tONWxXLCmxVXBAN-R2g5YE/edit?usp=sharing)
+* 📄 Know about my experiences https://docs.google.com/document/d/1A-ESsvFa6balxmT3M93Rm7RcXFiGLCX3/edit?usp=sharing&ouid=108666442953344414070&rtpof=true&sd=true
 
 * ⚡ Fun fact **I am a proud Manchester United fan and I love playing video games.**
 
