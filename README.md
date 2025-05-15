@@ -13,9 +13,7 @@ Collaboration is essential to me, and I value the opportunity to work alongside 
 <p align="left"> <a href="https://twitter.com/ayanfe_da" target="blank"><img src="https://img.shields.io/twitter/follow/ayanfe_da?logo=twitter&style=for-the-badge" alt="ayanfe_da" /></a> </p>
 
 
-* 🌍  I'm based in Ibadan, Nigeria
 
-* 🌱 I’m currently learning **React Native**
 
 * 💬 Ask me about **Android, MERN**
 
